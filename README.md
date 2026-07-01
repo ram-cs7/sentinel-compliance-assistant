@@ -5,8 +5,9 @@ Built for the Proteccio Data AI Research Innovation Internship assignment.
 > Upload a PDF, TXT, or CSV. The app detects sensitive data (Aadhaar, PAN,
 > cards, emails, API keys, etc.), gives you an explainable risk score,
 > maps findings to real regulatory frameworks, lets you ask questions about
-> the document, and exports a redacted copy — all running locally by
 > default, no API key needed.
+
+![Sentinel App Screenshot](assets/screenshot.png)
 
 ---
 
