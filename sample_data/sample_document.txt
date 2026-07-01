@@ -1,0 +1,37 @@
+INTERNAL USE ONLY — STRICTLY CONFIDENTIAL
+Project Falcon — Vendor Onboarding Record
+Prepared by: HR & Finance Ops, Proteccio Data (synthetic demo data only)
+
+1. EMPLOYEE DETAILS
+Employee Name: Ananya Sharma
+Employee ID: EMP20458
+Email: ananya.sharma@example-corp.com
+Phone: +91 98765 43210
+Aadhaar Number: 2346 8907 4180
+PAN Number: FLPZS5678K
+
+2. FINANCE / VENDOR PAYMENT DETAILS
+Vendor Bank Account No: 187364527190
+IFSC Code: HDFC0001234
+A backup contact number for the finance desk is 9876543211.
+Secondary (invalid, for demo of false-positive filtering) Aadhaar-shaped number: 1234 5678 9999
+
+3. SAMPLE PAYMENT RECORD (for testing card detection)
+Card on file (test number, not a real card): 4111 1111 1111 1111
+Card on file (test number, not a real card): 4111 1111 1111 1112
+
+4. SYSTEM ACCESS — INTERNAL DEVOPS NOTES
+AWS_ACCESS_KEY = AKIAIOSFODNN7EXAMPLE
+api_key: secret_key_51NxQ2LzT9pXyzAAAABBBCCCDDDEEEFFFGGGHHH
+password = hunter2fallback
+DB_PASSWORD=Str0ngP@ssw0rd!2026Xz
+
+5. BUSINESS CONTEXT
+This document contains proprietary and confidential information regarding
+Proteccio Data's Q3 partnership with Meridian Logistics, including projected
+contract value and internal pricing strategy. Do not distribute outside the
+finance and HR teams without written approval from the Head of Compliance.
+
+6. SUPPORT CONTACT
+For questions about this record, contact compliance@example-corp.com or
+call the internal helpdesk at 022-4567-8899.
